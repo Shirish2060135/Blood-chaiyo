@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1011569930385",
+    "firebase_url": "https://bloodchaiyo-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "bloodchaiyo",
+    "storage_bucket": "bloodchaiyo.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1011569930385:android:eab2ad11bb7587219f0f30",
+        "android_client_info": {
+          "package_name": "com.example.bloodchaiyo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1011569930385-msj1fp1e3i2g0qr9o4trpu37dm7d3rma.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDkZbkyjj1-yMvSQg1_2FzlNpqMxfhl30Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1011569930385-msj1fp1e3i2g0qr9o4trpu37dm7d3rma.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
